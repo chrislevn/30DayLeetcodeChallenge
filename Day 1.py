@@ -1,3 +1,4 @@
+# Using dictionary 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         s = dict()
